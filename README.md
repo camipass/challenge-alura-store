@@ -33,13 +33,13 @@ A partir de estos datos, se evaluará una conclusión y **recomendación estrat�
 
 📦 alura-store-analysis/
 
-├── `importación de datos`: Importa y carga las bases de datos de las 4 tiendas.
-├── `análisis de facturación`: Compara la facturación total por tienda.
-├── `ventas por categoría`: Categorías más vendidas por tienda.
-├── `calificación promedio`: Puntuación promedio dada por los clientes.
-├── `productos más y menos vendidos`: Identifica los productos más y menos populares en cada tienda.
-├── `envío promedio`: Costo promedio de envío desde cada tienda.
-└── `Informe Final`: Conclusión y recomendación final.
+- `importación de datos`: Importa y carga las bases de datos de las 4 tiendas.
+-  `análisis de facturación`: Compara la facturación total por tienda.
+- `ventas por categoría`: Categorías más vendidas por tienda.
+-  `calificación promedio`: Puntuación promedio dada por los clientes.
+-  `productos más y menos vendidos`: Identifica los productos más y menos populares en cada tienda.
+-  `envío promedio`: Costo promedio de envío desde cada tienda.
+-  `Informe Final`: Conclusión y recomendación final.
 
 ---
 

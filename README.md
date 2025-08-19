@@ -31,8 +31,7 @@ A partir de estos datos, se evaluará una conclusión y **recomendación estrat�
 
 ## 📁 Estructura del Proyecto
 
-📦 alura-store-analysis/
-
+📦 AluraStoreLatam
 - `importación de datos`: Importa y carga las bases de datos de las 4 tiendas.
 -  `análisis de facturación`: Compara la facturación total por tienda.
 - `ventas por categoría`: Categorías más vendidas por tienda.
